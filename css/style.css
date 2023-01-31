@@ -52,7 +52,7 @@ img {
 }
 
 body {
-  min-width: 320px;
+  /* min-width: 320px; */
   font-family: 'OpenSans';
   font-weight: 400;
 }
@@ -632,6 +632,7 @@ body {
 }
 
 .form-texterea {
+  min-height: 130px;
   border: 1px solid #dadada;
   border-radius: 20px;
   box-sizing: border-box;
